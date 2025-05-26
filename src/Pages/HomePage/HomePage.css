@@ -1,0 +1,22 @@
+.cars-collage {
+     background: #F4F4F4;
+      padding-top : 50px;
+      padding-bottom : 50px;
+      padding-left : 20px;
+      padding-right : 120px;
+      margin-top : 104px; 
+}
+
+.by-make {
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.by-location {
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    
+}
